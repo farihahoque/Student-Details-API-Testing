@@ -3,14 +3,14 @@ This project demonstrates API testing using Postman, providing a collection of t
 
 ### **Features**
 
-- Tests for GET, POST, PUT, PATCH, DELETE requests
+- Tests for GET, POST requests
 - Collection of tests covering different API endpoints
 - Environment setup for easy switching between environments
 - Pre-request scripts for data setup
 - Test scripts for assertions and validations
 
 ## API Documentation:
--https://documenter.getpostman.com/view/34981174/2sA3QzYTSR
+-https://documenter.getpostman.com/view/34981174/2sA3QzZ8Z5
   
 ### **Technology used:**
 - Postman
@@ -26,7 +26,7 @@ This project demonstrates API testing using Postman, providing a collection of t
 1. Postman: If you haven't already, [download and install Postman.](https://www.postman.com/downloads/)
 2. Clone the repository:
  ```console 
-  git clone https://github.com/farihahoque/Hotel-Booking-API-Testing.git
+  git clone https://github.com/farihahoque/Student-Details-API-Testing.git
 ```
 3. Import the Postman collection:
     - Open Postman.
